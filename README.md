@@ -1,1 +1,1 @@
-# battle_royale
+# battle_royale - simulator of different classes fighting eachother
