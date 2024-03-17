@@ -1,0 +1,14 @@
+C:\Users\radim\source\repos\2023-p2b-prg-battleroyale-RadimTesner\BattleRoyale\bin\Debug\net7.0\BattleRoyale.exe
+C:\Users\radim\source\repos\2023-p2b-prg-battleroyale-RadimTesner\BattleRoyale\bin\Debug\net7.0\BattleRoyale.deps.json
+C:\Users\radim\source\repos\2023-p2b-prg-battleroyale-RadimTesner\BattleRoyale\bin\Debug\net7.0\BattleRoyale.runtimeconfig.json
+C:\Users\radim\source\repos\2023-p2b-prg-battleroyale-RadimTesner\BattleRoyale\bin\Debug\net7.0\BattleRoyale.dll
+C:\Users\radim\source\repos\2023-p2b-prg-battleroyale-RadimTesner\BattleRoyale\bin\Debug\net7.0\BattleRoyale.pdb
+C:\Users\radim\source\repos\2023-p2b-prg-battleroyale-RadimTesner\BattleRoyale\obj\Debug\net7.0\BattleRoyale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\radim\source\repos\2023-p2b-prg-battleroyale-RadimTesner\BattleRoyale\obj\Debug\net7.0\BattleRoyale.AssemblyInfoInputs.cache
+C:\Users\radim\source\repos\2023-p2b-prg-battleroyale-RadimTesner\BattleRoyale\obj\Debug\net7.0\BattleRoyale.AssemblyInfo.cs
+C:\Users\radim\source\repos\2023-p2b-prg-battleroyale-RadimTesner\BattleRoyale\obj\Debug\net7.0\BattleRoyale.csproj.CoreCompileInputs.cache
+C:\Users\radim\source\repos\2023-p2b-prg-battleroyale-RadimTesner\BattleRoyale\obj\Debug\net7.0\BattleRoyale.dll
+C:\Users\radim\source\repos\2023-p2b-prg-battleroyale-RadimTesner\BattleRoyale\obj\Debug\net7.0\refint\BattleRoyale.dll
+C:\Users\radim\source\repos\2023-p2b-prg-battleroyale-RadimTesner\BattleRoyale\obj\Debug\net7.0\BattleRoyale.pdb
+C:\Users\radim\source\repos\2023-p2b-prg-battleroyale-RadimTesner\BattleRoyale\obj\Debug\net7.0\BattleRoyale.genruntimeconfig.cache
+C:\Users\radim\source\repos\2023-p2b-prg-battleroyale-RadimTesner\BattleRoyale\obj\Debug\net7.0\ref\BattleRoyale.dll
